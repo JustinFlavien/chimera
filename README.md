@@ -1,36 +1,79 @@
-# X-DDOS
+<br />
+<p align="center">
 
-X-DDOS is one of the best DDoS tools out there. It includes a user interface for inputting a URL,  resolves the URL to an IP address, and preforms an advanced DDoS attac to the website.
+                 
+  <h3 align="center"></h3>
 
-## Features
+# The #1 Discord Multitool
 
-- DDoS attacks
-- Good user interface
-- IP fetching from the URL
+  <p align="center">
+    <br />
+    <a href="https://discord.gg/nuking">Join the discord</a>
+  </p>
+</p>
 
-## Installation
+<details open="open">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
-To run X-DDOS, you need to have Python installed. Follow these steps to get started:
+## Short Showcase (not all features)
 
-1. Download the repository as a ZIP file.
+https://www.youtube.com/watch?v=dkUisLWhqqE&ab_channel=Klix
 
-2. Extract the ZIP file in your file exporer.
+## About The Project
 
-3. Go in the extracted folder & open start.bat
+![image](https://github.com/Meterado/discord-multitool/assets/170883839/145b3017-a92b-4a88-be96-e3909539a681)
 
-## Usage
+### The tool has all the features you need to run and raid a discord server  
 
-# Guide on how to use these tool
++ Bomb account
++ Unfriend everyone
++ Delete all servers
++ Spam new servers
++ Delete all dms
++ DM everyone
++ Enable lightning (aka seizure mode)
++ Token info
++ Login with token
++ Block friends
++ Profile changer
++ IP pinger
++ Token grabber
++ QR grabbermass reporter
++ Groupchat creator
++ Webhook compromiser
++ Discord acc method
++ Bot nuker
++ Server lookup
++ Token checker
++ Server joiner
 
-1. Install Python from
-
-2. Download the repo as a ZIP
-
-3. Go in your file explorer and extract the ZIP file
-
-4. Go in the extracted folder and open the start.bat file
-
-5. Enjoy!
 
 
-![image](https://github.com/user-attachments/assets/cb09b2d8-c4b5-41c0-804d-cd7d8b0c30df)
+### Upcoming Features
+
+- Faster Bot Nuker
+- Token Generator
+
+## Getting Started
+
+1. To get started, save the project as a zip and extract it. Then follow these steps:
+
+### Installation
+
+2. Download all of the python requirements by opening setup.bat
+
+3. Open start.bat to start the tool
